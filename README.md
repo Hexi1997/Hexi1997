@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **Hexi1997/Hexi1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
