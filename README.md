@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **web3、taro、vue**
 
-- 💬 Ask me about **react、flow、web3**
+- 💬 Ask me about **react、front end**
 
 - 📫 How to reach me **niudieyi1996@gmail.com**
 
-- ⚡ Fun fact **I am a pessimistic person**
+- ⚡ Fun fact **I'm a good man, but not rewarded**
