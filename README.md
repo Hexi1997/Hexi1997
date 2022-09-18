@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hexi1997&label=Profile%20views&color=0e75b6&style=flat" alt="hexi1997" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hexi1997" target="blank"><img src="https://img.shields.io/twitter/follow/hexi1997?logo=twitter&style=for-the-badge" alt="hexi1997" /></a> </p>
-
 - 🌱 I’m currently learning **web3、taro、vue**
 
 - 💬 Ask me about **react、flow、web3**
