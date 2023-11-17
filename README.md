@@ -8,5 +8,3 @@
 - 💬 Ask me about **react、front end**
 
 - 📫 How to reach me **niudieyi1996@gmail.com**
-
-- ⚡ Fun fact **I'm a good man, but not rewarded**
