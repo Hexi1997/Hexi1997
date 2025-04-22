@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **web3、taro、vue**
 
-- 💬 Ask me about **react、front end、nextjs、tailwindcss**
+- 💬 Ask me about **front end、react、nextjs、tailwindcss**
 
 - 📫 How to reach me **niudieyi1996@gmail.com**
